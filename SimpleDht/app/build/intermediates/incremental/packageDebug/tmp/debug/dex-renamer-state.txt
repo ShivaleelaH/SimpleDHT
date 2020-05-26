@@ -1,0 +1,4 @@
+#Wed May 13 13:43:35 EDT 2020
+base.0=/Users/shivaleelahubli/Documents/Distributed systems/PA_3/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
